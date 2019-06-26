@@ -2,9 +2,9 @@
 Grab the Douban book label as a keyword, such as novels, health, etc.
 
 **Log**
-<img src="https://github.com/littlebaba/doubanbooks/blob/master/screenshot/1.jpg" width="600"/>
+<img src="https://github.com/littlebaba/doubanbooks/blob/master/screenshot/1.jpg" width="600" height="400"/>
 **Result**
-<img src="https://github.com/littlebaba/doubanbooks/blob/master/screenshot/2.jpg" width="600"/>
+<img src="https://github.com/littlebaba/doubanbooks/blob/master/screenshot/2.jpg" width="600" height="400"/>
 ## Getting Started
 ### Installation
 - Clone this repo:

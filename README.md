@@ -9,6 +9,7 @@ Grab the Douban book label as a keyword, such as novels, health, etc.
 
 <img src="https://github.com/littlebaba/doubanbooks/blob/master/screenshot/2.jpg" width="600"/>
 
+
 ## Getting Started
 ### Installation
 - Clone this repo:
@@ -20,3 +21,4 @@ cd doubanbooks
     - For pip users,please type the command `pip install -r requirements.txt`.
 - Run
     - enter main.py run the main funtion
+## If it helps you, welcome to start it.
